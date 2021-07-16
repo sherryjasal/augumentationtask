@@ -1,0 +1,16 @@
+<html>
+	<head>
+		<title>Free Weather History Data</title>
+		<meta name="robots" content="noindex">
+	</head>
+	<body>
+		<div style="border: 1px solid red; background: #ccc; padding: 30px; width: 500px; margin-left: auto; margin-right: auto;">
+			<h1 style="text-align: center">There's an easier way to get Weather History data...</h1>
+
+			<p>You don't need to scrape Almanac.com to get bulk Weather History data for free; it's available, at no cost, much more easily,
+				from the <a href="https://catalog.data.gov/dataset/global-surface-summary-of-the-day-gsod">Global Surface Summary of the Day</a>.</p>
+
+			<p>Questions? Email <a href="mailto:yankee.publishing@gmail.com">yankee.publishing@gmail.com</a>.</p>
+		</div>
+	</body>
+</html>
